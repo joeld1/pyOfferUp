@@ -151,4 +151,9 @@ crashlytics-build.properties
 fabric.properties
 
 .idea
+/.idea/*
 /.idea
+/venv
+
+/venv/*
+/.venv
